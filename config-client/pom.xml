@@ -8,7 +8,7 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>lpp.spring.cloud.config.example</groupId>
+	<groupId>spring.cloud.config.example</groupId>
 	<artifactId>config-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>config-client</name>

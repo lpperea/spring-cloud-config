@@ -1,12 +1,12 @@
-package lpp.spring.cloud.config.example.configclient;
+package spring.cloud.config.example.configclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class ConfigClientApplicationTests {
 
-	@Test
+//	@Test
 	void contextLoads() {
 	}
 

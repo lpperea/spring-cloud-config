@@ -1,4 +1,4 @@
-package lpp.spring.cloud.config.example.configclient.controllers;
+package spring.cloud.config.example.configclient.controllers;
 
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.cloud.context.scope.refresh.RefreshScopeRefreshedEvent;

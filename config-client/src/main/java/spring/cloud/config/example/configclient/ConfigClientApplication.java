@@ -1,4 +1,4 @@
-package lpp.spring.cloud.config.example.configclient;
+package spring.cloud.config.example.configclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
