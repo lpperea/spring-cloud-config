@@ -1,0 +1,14 @@
+version: "3.2"
+services:
+  rabbitmq:
+    image: rabbitmq:3.6.11-management-alpine
+    container_name: 'rabbitmq'
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+  config-server:
+    container_name: 'config-server'
+    build:
+      context: .
+    ports:
+      - "8888:8888"
